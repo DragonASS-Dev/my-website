@@ -15,6 +15,7 @@ body {
   height: 100vh;
   position: relative;
 }
+
 video {
   object-fit: cover;
   position: absolute;
@@ -43,7 +44,7 @@ video {
 .home-content h1 {
   font-family: Playfair Display, serif;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-size: 85px;
   line-height: 1.1;
 }
