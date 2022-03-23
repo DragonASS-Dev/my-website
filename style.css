@@ -37,7 +37,7 @@ video {
   margin: 0 auto;
   position: relative;
   top: 50px;
-  color: #fff;
+  color: rgb(31, 30, 30);
   z-index: 3;
 }
 .home-content h1 {
@@ -50,10 +50,10 @@ video {
 .home-content button {
   display: block;
   font-size: 20px;
-  border: 1px solid #f1f1f1;
+  border: 1px solid #161616;
   border-radius: 5px;
   background: transparent;
-  color: #fff;
+  color: rgb(27, 27, 27);
   margin: 50px auto 0;
   padding: 16px 30px;
   cursor: pointer;
